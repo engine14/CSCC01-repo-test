@@ -1,7 +1,7 @@
 # CSCC01-repo-test
 test your pull requests here
 
-1. git clone this repo "git clone https://github.com/engine14/CSC301-repo-test"
+1. git clone this repo "git clone" [your repo]
 2. create your own local branch with your name "git checkout -b firstname-lastname"
 3. create a new text file "firstname-lastname.txt"
 4. put whatever you want in it - "hello world"
